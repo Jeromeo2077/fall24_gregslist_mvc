@@ -12,4 +12,6 @@ export class Home {
     this.description = data.description
     this.img = data.img
   }
+
+
 }

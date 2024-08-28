@@ -45,7 +45,7 @@ class ObservableAppState extends EventEmitter {
   homes = [
     new Home({ year: '1974', bedrooms: 3, bathrooms: 2.5, sqft: 1400, price: 375000, description: 'Newly renovated mid-century modern home near good schools', img: '.\assets\img\SmallHouse.png' }),
     new Home({ year: '1994', bedrooms: 4, bathrooms: 2, sqft: 1800, price: 500000, description: 'Modern home in a quiet neighborhood, great for retired couples', img: '.\assets\img\MedHouse.png' }),
-    new Home({ year: '1994', bedrooms: 4, bathrooms: 2, sqft: 1800, price: 500000, description: 'Luxury home with a mediterranean atmosphere and relaxing pool perfect for parties ', img: '.\assets\img\LuxuryHome' }),
+    new Home({ year: '1994', bedrooms: 4, bathrooms: 2, sqft: 1800, price: 500000, description: 'Luxury home with a mediterranean atmosphere and relaxing pool perfect for parties', img: '.\assets\img\LuxuryHome' }),
 
   ]
 }
